@@ -1,0 +1,176 @@
+
+#top{
+    position: absolute;
+    width: 133px;
+    height: 25px;
+    left: 77px;
+    top: 10px;
+    
+    font-family: Inconsolata;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    color: #333333;
+
+}
+img{
+    height: 447.3px;
+    width: 539.22px;
+    position: absolute;
+left: 5.35%;
+right: 57.21%;
+top: 24.54%;
+bottom: 34.03%;
+}
+
+h1{
+    position: absolute;
+width: 586px;
+height: 190px;
+left: 735px;
+top: 110px;
+font-family: Space Mono;
+font-style: normal;
+font-size: 64px;
+line-height: 95px;
+letter-spacing: -0.035em;
+color: #333333;
+}
+#main{
+    position: absolute;
+width: 381px;
+height: 108px;
+left: 736px;
+top: 355px;
+font-family: Space Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: -0.035em;
+color: #4F4F4F;
+}
+button{
+    position: absolute;
+width: 216px;
+height: 68px;
+left: 740px;
+top: 540px;
+background-color: #333333;
+font-family: Space Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+letter-spacing: -0.035em;
+text-align: center;
+color: white;
+}
+footer{
+    position: absolute;
+width: 226px;
+height: 17px;
+left: 607px;
+bottom: 30px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+color: #333333;
+}
+@media only screen and (max-width: 600px)
+{
+  #top{
+    position: absolute;
+    width: 133px;
+    height: 25px;
+    left: 24px;
+    top: 5px;
+    font-family: Inconsolata;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    color: #333333;
+  }
+  img{
+      height: auto;
+      width: 286px;
+      margin-left:15% ;
+      position: relative;
+      top: 100px;      
+}
+.txt{
+    width: 100%;
+    height: max-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 120px;
+    text-align: left;
+}
+h1{
+    width: 100%;
+    position: relative;
+    height: 142px;
+    left: 24px;
+    top: 0px;
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 71px;
+    letter-spacing: -0.035em;
+    color: #333333;
+}
+#main{
+    width: 98%;
+    position: relative;
+    left: 24px;
+    top: auto;
+    font-family: Space Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: -0.035em;
+color: #4F4F4F;
+}
+button{
+    position: relative;
+    width: 216px;
+    height: 68px;
+    left: 24px;
+    top: 120px;
+background-color: #333333;
+font-family: Space Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.035em;
+text-transform: uppercase;
+color: white;
+}
+footer{
+    width: 226px;
+    height: 17px;
+    position: relative;
+    left: 33%;
+    top: 224px;
+    margin-bottom: 30px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+color: #333333;
+}
+}
+
